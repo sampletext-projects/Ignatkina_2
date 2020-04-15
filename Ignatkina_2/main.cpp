@@ -20,6 +20,10 @@ int count_n_before_s(int s, int d)
 int main()
 {
 	setlocale(LC_ALL, "russian");
+
+	cout << "Программу сделала Игнаткина Валерия студент группы УТН-111" << "\n";
+	cout << "Программа вычисления сроков обучения Незнайки\n";
+	
 	int d = 2;
 	int years = 30;
 	int all_words = 50000;
